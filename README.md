@@ -5,7 +5,7 @@ This project is an interactive Excel dashboard built using the Superstore datase
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Features
 - Interactive Slicers (Region, Category, Segment, Year)
